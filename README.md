@@ -26,6 +26,6 @@
 
 ## Organização
 
-A identidade, os padrões e os materiais institucionais da Villa ficam na organização [villa master](https://github.com/villa-master).
+O código, a identidade e os padrões da Villa ficam na organização [villa master](https://github.com/villa-master).
 
 <sub>O código é privado. Para solicitar acesso, entre em contato com a equipe.</sub>
