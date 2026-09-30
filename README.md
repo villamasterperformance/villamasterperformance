@@ -5,27 +5,27 @@
 <h1 align="center">Villa Master Performance</h1>
 
 <p align="center">
-  Consultoria de estruturação digital: marketing, comercial, CRM, processos e indicadores como um único sistema.
+  <strong>Consultoria de estruturação digital.</strong><br>
+  Marketing, comercial, CRM, processos e indicadores como um único sistema.
 </p>
 
 <p align="center">
-  <a href="https://villamasterperformance.com.br">Site</a> ·
-  <a href="https://github.com/villa-master">Organização no GitHub</a> ·
-  <a href="https://instagram.com/villamasterperformance">Instagram</a> ·
-  <a href="mailto:villamasterperformance@gmail.com">Contato</a>
+  <a href="https://villamasterperformance.com.br/">Site</a> &nbsp;·&nbsp;
+  <a href="https://villamasterperformance.com.br/links/">Links</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/villamasterperformance/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://api.whatsapp.com/send/?phone=5561996786682&text=Ol%C3%A1%21+Gostaria+de+conhecer+a+Villa+Master+Performance.&type=phone_number&app_absent=0">WhatsApp</a>
 </p>
 
----
+<br>
 
 ## Produtos
 
-- **Villa Leads**: CRM executivo, gestão comercial e automação de WhatsApp.
-- **Villa Pixel**: tracking e analytics multi-tenant.
-- **Faro Leads**: prospecção B2B com IA, app desktop para Windows ([faroleads.site](https://www.faroleads.site)).
+* **Villa Leads**: CRM executivo, gestão comercial e automação de WhatsApp.
+* **Villa Pixel**: rastreamento e análise de dados para várias empresas em uma única plataforma.
+* **Faro Leads**: prospecção B2B com inteligência artificial ([faroleads.site](https://www.faroleads.site/)).
 
-## Organização dos repositórios
+## Organização
 
-- `villa-*`: projetos e produtos internos.
-- `cliente-*`: projetos entregues a clientes (privados).
+A identidade, os padrões e os materiais institucionais da Villa ficam na organização [villa master](https://github.com/villa-master).
 
-O código da Villa fica aqui por causa do deploy na Vercel (plano gratuito). Padrões, catálogo e identidade ficam na organização [villa-master](https://github.com/villa-master).
+<sub>O código é privado. Para solicitar acesso, entre em contato com a equipe.</sub>
