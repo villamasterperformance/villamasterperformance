@@ -2,7 +2,7 @@
 
 Consultoria estratégica de estruturação digital: marketing, comercial, CRM, processos e indicadores como um único sistema.
 
-🌐 [villamasterperformance.com.br](https://villamasterperformance.com.br)
+[villamasterperformance.com.br](https://villamasterperformance.com.br)
 
 ## Produtos
 - **Villa Pixel**: tracking e analytics multi-tenant
